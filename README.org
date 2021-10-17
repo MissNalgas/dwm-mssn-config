@@ -1,4 +1,4 @@
-#+TITLE: dwm-distrotube
+#+TITLE: dwm-mssn fork of dwm-distrotube
 
 * Table of Contents :toc:
 - [[#about-dwm][About DWM]]
